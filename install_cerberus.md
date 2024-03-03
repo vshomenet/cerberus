@@ -3,6 +3,12 @@
 [назад к описанию](readme.md)
 
 ### Установка Cerberus
+Установить nginx
+```
+apt update
+apt install nginx
+```
+
 Добавить репозиторий
 ```
 wget -O - https://develop.5ru.ru/repository/Other/public.gpg.key | apt-key add -
@@ -48,4 +54,9 @@ db_name = cerberus
 * password = my_password - пароль пользователя mongoDB
 * db_name = cerberus - база данных с которой будет работать Cerberus
 
+### Обновление Cerberus
+```
+apt update
+apt install cerberus
+```
 [назад к описанию](readme.md)

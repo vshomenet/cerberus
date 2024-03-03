@@ -41,7 +41,7 @@ security:
 systemctl restart mongod
 ```
 
-Добавить базу данных для Cerberus
+Создать базу данных и пользователя для Cerberus
 ```
 mongosh -u root -p 
 use cerberus 
