@@ -40,3 +40,5 @@ http://my_ip_or_domain
 * логин: *user*
 * пароль: *user*
 
+### Разработка и поддержка
+[admin@5ru.ru](mailto:admin@5ru.ru)
