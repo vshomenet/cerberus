@@ -2,7 +2,7 @@
 
 [назад к описанию](readme.md)
 
-###  Установка и настройка mongoDB on debian 11
+###  Установка и настройка mongoDB на Debian 11
 
 Установка mongoDB
 ```
