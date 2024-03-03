@@ -41,4 +41,5 @@ http://my_ip_or_domain
 * пароль: *user*
 
 ### Разработка и поддержка
+Sergey Semenov
 [admin@5ru.ru](mailto:admin@5ru.ru)
