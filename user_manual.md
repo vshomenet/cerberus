@@ -17,7 +17,7 @@
 
 [<img src="images/add_kassa.png" width="300"/>](images/add_kassa.png)
 * Название кассы - произвольное название
-* Полный путь до лог файла - указать путь до лог файла кассы. Пример: *\\\192.168.0.1\UCS\Premiera_4.0_Client\Logs\fps_uni_fpCustomQ3X54.dll.01.log*, *\\\192.168.0.1\ucs\RKeeper7Cash\default\Rk7Cash\fpRU_AtolDTO_0.log*
+* Полный путь до лог файла - указать путь до лог файла кассы. Пример: \\\192.168.0.1\UCS\Premiera_4.0_Client\Logs\fps_uni_fpCustomQ3X54.dll.01.log, \\\192.168.0.1\ucs\RKeeper7Cash\default\Rk7Cash\fpRU_AtolDTO_0.log
 * Логин от кассы - логин пользователя samba-шары на кассе
 * Пароль от кассы - пароль пользователя
 * IP адрес ZoneMinder - указать IP адрес сервера на котором развернут ZoneMinder. Пример: *192.168.0.1*
